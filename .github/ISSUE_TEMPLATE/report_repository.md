@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-**Repository:**
-
-(e.g., `user/repo`)
-
 **Reason for Reporting:**
 
 (e.g., malware, spam, license violation, etc.)

@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-**Repository:**
-
-(e.g., `user/repo`)
-
 **Reason for Verification:**
 
 (Provide a brief justification for why this repository should be trusted)
