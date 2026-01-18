@@ -24,5 +24,5 @@ The format for both `verified.txt` and `banned.txt` is a simple line-by-line lis
 
 ## Contributing
 
-To add or update an entry, please open a Pull Request.
+To add or update an entry, please open a Pull Request or create an Issue.
 
